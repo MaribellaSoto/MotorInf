@@ -1,0 +1,8 @@
+R1=AyB->C
+R2=A->D
+R3=CyD->E
+R4=ByEyF->G
+R5=AyE->H
+R6=DyEyH->I
+META:H
+BH:A,B,F
