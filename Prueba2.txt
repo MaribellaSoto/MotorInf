@@ -1,6 +1,0 @@
-R1=ByC->A
-R2=CyD->A
-R3=E->B
-R4=FoG->C
-META:A
-BH:E,F
