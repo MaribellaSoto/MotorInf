@@ -1,0 +1,6 @@
+R1 A,B = C
+R2 A = D
+R3 C,D = E
+R4 B,E,F = G
+R5 A,X = H
+R6 D,E,H = I

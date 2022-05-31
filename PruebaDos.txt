@@ -1,0 +1,4 @@
+R1 A,B = D
+R2 D = C
+R3 C = E
+R4 E,D = G
